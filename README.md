@@ -1,3 +1,3 @@
-# Maintain a wiki with summaries of books, blogs, notes and interesting reads online
+# Wiki with summaries of interesting reads
 
 https://github.com/gouthamv03/notes/wiki
